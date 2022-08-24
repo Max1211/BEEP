@@ -18,7 +18,7 @@
         "influxdb/influxdb-php": "1.*",
         "intervention/image": "^2.4.2",
         "kalnoy/nestedset": "^5.0.1",
-        "laravel/framework": "^9.*",
+        "laravel/framework": "9.*",
         "laravel/tinker": "~2.0",
         "laravelcollective/html": "^6.1",
         "league/flysystem-aws-s3-v3": "~1.0",
