@@ -14,7 +14,7 @@
         "fightbulc/moment": "*",
         "fruitcake/laravel-cors": "^2.0.4",
         "guzzlehttp/guzzle": "^6.5",
-        "iatstuti/laravel-cascade-soft-deletes": "^2.0.0",
+        "dyrynda/laravel-cascade-soft-deletes": "^2.0.0",
         "influxdb/influxdb-php": "1.*",
         "intervention/image": "^2.4.2",
         "kalnoy/nestedset": "^5.0.1",
@@ -36,7 +36,7 @@
         "knuckleswtf/scribe": "^3.29",
         "mockery/mockery": "^1.0",
         "nunomaduro/collision": "^3.0",
-        "phpunit/phpunit": "^8.0"
+        "phpunit/phpunit": "^9.0"
     },
     "config": {
         "optimize-autoloader": true,
