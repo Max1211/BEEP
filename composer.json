@@ -28,7 +28,8 @@
         "predis/predis": "^1.1",
         "tray-labs/laravel-influxdb": "*",
         "trebol/entrust": "2.*",
-        "illuminate/support": "9.*"
+        "illuminate/support": "9.*",
+        "illuminate/console": "9.*"
     },
     "require-dev": {
         "appzcoder/crud-generator": "^3.0",
