@@ -26,7 +26,7 @@
         "phpoffice/phpspreadsheet": "^1.2",
         "predis/predis": "^1.1",
         "tray-labs/laravel-influxdb": "*",
-        "trebol/entrust": "2.0",
+        "mitchbred/entrust",
         "illuminate/support": "9.*",
         "illuminate/console": "9.26.1",
         "illuminate/routing": "9.*",
