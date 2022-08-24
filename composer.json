@@ -7,7 +7,7 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": "^8.*",
+        "php": "^8.1",
         "doctrine/dbal": "^2.9",
         "ellipsesynergie/api-response": "0.12.*",
         "fideloper/proxy": "^4.0",
